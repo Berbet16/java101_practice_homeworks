@@ -53,6 +53,21 @@ Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
 ## [Dairenin Alanını ve Çevresini Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dairenin_Alan%C4%B1n%C4%B1_ve_%C3%87evresini_Bulan_Program.java)
 
+- Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
+
+Alan Formülü : π * r * r;
+
+Çevre Formülü : 2 * π * r;
+
+- Yarıçapı r, merkez açısısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
+
+𝜋 sayısını = 3.14 alınız.
+
+Formül : (𝜋 * (r*r) * 𝛼) / 360
+
+![img1](images/Daire_Alan_Cevre.png)
+
+
 ## [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/V%C3%BCcut_Kitle_Indeksi_Hesaplayan_Program.java)
 
 ## [Manav Kasa Programı](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Manav_Kasa.java)

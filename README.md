@@ -2,6 +2,15 @@
 
 ## [Not Ortalama Hesaplama Programı](https://github.com/Berbet16/java101_practice_homeworks/blob/main/not_ortalama_hesaplay%C4%B1c%C4%B1.java)
 
+- Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+
+- Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
+
+**(Not : If ve Else kullanılmayacak...)** 
+
+![img1](images/Not_Ortalama_Hesaplama_Pass.png)
+![img1](images/Not_Ortalama_Hesaplama_Fail.png)
+
 ## [KDV Tutarı Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/KDV_Tutar%C4%B1_Hesaplayan_Program.java)
 
 ## [Dik Üçgende Hipotenüs Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dik_U%C3%A7gende_Hipoten%C3%BCs_Bulan_Program.java)

@@ -40,7 +40,9 @@ Formül
 
 Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
-![img1](images/KDV_1000Altı.png)
+![img1](images/Dik_Ucgen_Alan.png)
+![img1](images/Dik_Ucgen_Hipo.png)
+
 
 ## [Taksimetre Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Taksimetre_Hesaplayan_Program.java)
 

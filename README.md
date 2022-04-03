@@ -12,6 +12,17 @@
 ![img1](images/Not_Ortalama_Hesaplama_Fail.png)
 
 ## [KDV Tutarı Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/KDV_Tutar%C4%B1_Hesaplayan_Program.java)
+- Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
+
+**(Not : KDV tutarını 18% olarak alın)**
+
+KDV'siz Fiyat = 10;
+
+KDV'li Fiyat = 11.8;
+
+KDV tutarı = 1.8;
+
+Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.
 
 ## [Dik Üçgende Hipotenüs Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dik_U%C3%A7gende_Hipoten%C3%BCs_Bulan_Program.java)
 

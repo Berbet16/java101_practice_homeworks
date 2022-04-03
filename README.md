@@ -13,3 +13,13 @@
 ## [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/V%C3%BCcut_Kitle_Indeksi_Hesaplayan_Program.java)
 
 ## [Manav Kasa Programı](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Manav_Kasa.java)
+
+- Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran programı yazın.
+
+- Meyveler ve KG Fiyatları
+
+Armut : 2,14 TL <br/>
+Elma : 3,67 TL <br/>
+Domates : 1,11 TL <br/>
+Muz: 0,95 TL <br/>
+Patlıcan : 5,00 TL

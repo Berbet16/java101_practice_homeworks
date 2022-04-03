@@ -23,3 +23,5 @@ Elma : 3,67 TL <br/>
 Domates : 1,11 TL <br/>
 Muz: 0,95 TL <br/>
 Patlıcan : 5,00 TL
+
+![img1](images/manav_kasa.png)

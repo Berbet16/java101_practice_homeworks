@@ -8,7 +8,7 @@
 
 **(Not : If ve Else kullanılmayacak...)** 
 
-![img1](images/Not_Ortalama_Hesaplama_Pass.png)
+![img1](images/Not_Ortalama_Hesaplama_Pass1.png)
 ![img1](images/Not_Ortalama_Hesaplama_Fail.png)
 
 ## [KDV Tutarı Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/KDV_Tutar%C4%B1_Hesaplayan_Program.java)

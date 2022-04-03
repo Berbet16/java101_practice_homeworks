@@ -46,6 +46,11 @@ Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
 ## [Taksimetre Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Taksimetre_Hesaplayan_Program.java)
 
+- Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
+
+![img1](images/Taksimetre_20Altı.png)
+![img1](images/Taksimetre_20Ustu.png)
+
 ## [Dairenin Alanını ve Çevresini Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dairenin_Alan%C4%B1n%C4%B1_ve_%C3%87evresini_Bulan_Program.java)
 
 ## [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/V%C3%BCcut_Kitle_Indeksi_Hesaplayan_Program.java)

@@ -25,7 +25,7 @@ public class Main {
       } 
       else 
       {
-          System.out.println("Yüzmeye Gidebilirsiniz.");
+          System.out.println("You can go swim.");
       }
     }
 }

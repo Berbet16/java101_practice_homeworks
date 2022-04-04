@@ -109,4 +109,4 @@ Patlıcan : 5,00 TL
 
 - Videodaki hesap makinesini switch-case kullanarak yapınız.
 
-
+![img1](images/Pratik_Hesap_Makinesi_Dersi.png)

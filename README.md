@@ -124,7 +124,7 @@ Patlıcan : 5,00 TL
 
 ---
 
-##[Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Hava_S%C4%B1cakl%C4%B1%C4%9Fna_G%C3%B6re_Etkinlik_Onerme.java)
+## [Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Hava_S%C4%B1cakl%C4%B1%C4%9Fna_G%C3%B6re_Etkinlik_Onerme.java)
 
 - Java koşullu ifadeler ile hava sıcaklığına göre etkinlik öneren program yapımı.
 

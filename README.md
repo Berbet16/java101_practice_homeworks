@@ -139,4 +139,9 @@ Koşullar :
 
 ---
 
-## [Sayıları Büyükten Küçüğe Sıralayan Program]
+## [Sayıları Büyükten Küçüğe Sıralayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Say%C4%B1lar%C4%B1_Buyukten_Kucuge_S%C4%B1ralama.java)
+
+- Java koşullu ifadeler ile girilen 3 sayıyı büyükten küçüğe sıralayan program yapımı.
+
+![img1](images/Sayıları_Buyukten_Kucuge_Sıralama.png)
+

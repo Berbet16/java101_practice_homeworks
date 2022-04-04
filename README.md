@@ -110,3 +110,17 @@ Patlıcan : 5,00 TL
 - Videodaki hesap makinesini switch-case kullanarak yapınız.
 
 ![img1](images/Pratik_Hesap_Makinesi_Dersi.png)
+ 
+ ---
+ 
+ ## [Kullanıcı Girişi Dersi](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Pratik_Kullan%C4%B1c%C4%B1_Giri%C5%9Fi.java)
+ 
+- Java koşullu ifadeler ile kullanıcı adı ve şifreyi kontrol eden program yapımı.
+
+- Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
+
+![img1](images/Login_Pass.png)
+![img1](images/Login_Fail.png)
+
+---
+

@@ -135,4 +135,5 @@ Koşullar :
 - Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
 - Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 
+![img1](images/Hava_Sıcaklığına_Etkinlik.png)
 

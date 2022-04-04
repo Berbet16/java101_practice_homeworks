@@ -11,6 +11,8 @@
 ![img1](images/Not_Ortalama_Hesaplama_Pass1.png)
 ![img1](images/Not_Ortalama_Hesaplama_Fail.png)
 
+---
+
 ## [KDV Tutarı Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/KDV_Tutar%C4%B1_Hesaplayan_Program.java)
 - Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
 
@@ -26,6 +28,8 @@ Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'de
 
 ![img1](images/KDV_1000Ustu.png)
 ![img1](images/KDV_1000Altı.png)
+
+---
 
 ## [Dik Üçgende Hipotenüs Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dik_U%C3%A7gende_Hipoten%C3%BCs_Bulan_Program.java)
 
@@ -43,6 +47,7 @@ Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 ![img1](images/Dik_Ucgen_Alan.png)
 ![img1](images/Dik_Ucgen_Hipo.png)
 
+---
 
 ## [Taksimetre Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Taksimetre_Hesaplayan_Program.java)
 
@@ -50,6 +55,8 @@ Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
 ![img1](images/Taksimetre_20Altı.png)
 ![img1](images/Taksimetre_20Ustu.png)
+
+---
 
 ## [Dairenin Alanını ve Çevresini Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Dairenin_Alan%C4%B1n%C4%B1_ve_%C3%87evresini_Bulan_Program.java)
 
@@ -67,6 +74,7 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 
 ![img1](images/Daire_Alan_Cevre.png)
 
+---
 
 ## [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/V%C3%BCcut_Kitle_Indeksi_Hesaplayan_Program.java)
 
@@ -76,6 +84,8 @@ Formül
 Kilo (kg) / Boy(m) * Boy(m)
 
 ![img1](images/Vücut_Endeks.png)
+
+---
 
 ## [Manav Kasa Programı](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Manav_Kasa.java)
 
@@ -90,3 +100,13 @@ Muz: 0,95 TL <br/>
 Patlıcan : 5,00 TL
 
 ![img1](images/manav_kasa.png)
+
+---
+
+## [Pratik Hesap Makinesi](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Pratik_Hesap_Makinesi_Dersi.java)
+
+- Java koşullu ifadeler ile basit hesap makinesi yapımı.
+
+- Videodaki hesap makinesini switch-case kullanarak yapınız.
+
+

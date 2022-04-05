@@ -231,4 +231,4 @@ Doğum Tarihi %12 = 10 ➜ At
 
 Doğum Tarihi %12 = 11 ➜ Koyun
 
-![img](images/Zodyağı_Hesaplama.png)
+![img](images/Cin_Zodyağı_Hesaplama.png)

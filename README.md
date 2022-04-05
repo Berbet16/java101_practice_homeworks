@@ -253,4 +253,4 @@ Artık Yıl Nasıl Hesaplanır?
 Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
 Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
 
-
+![img](images/Artık_Yıl_Hesaplama.png)

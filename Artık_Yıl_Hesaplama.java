@@ -6,10 +6,10 @@ public class Main {
     	
         int year;
         
-        Scanner input = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         
         System.out.print("Lüften yıl giriniz :");
-        year = input.nextInt();
+        year = scan.nextInt();
 
         if (year % 4 == 0) 
         {

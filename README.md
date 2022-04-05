@@ -191,5 +191,4 @@ Balık Burcu : 20 Şubat - 20 Mart
 - Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır.
 - Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır.
 
-
-[img1](
+![img1](images/Ucak_Fiyatı_Hesaplama.png)

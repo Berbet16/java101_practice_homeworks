@@ -257,4 +257,8 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 
 ---
 
-## [Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program]
+## [Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Girilen_Say%C4%B1ya_Kadar_Cift_Say%C4%B1_Bulma.java)
+
+- Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız.
+
+

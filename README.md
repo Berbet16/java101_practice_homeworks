@@ -261,4 +261,4 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 
 - Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız.
 
-
+![img](images/Girilen_Sayıya_Kadar_Cift_Hesaplama.png)

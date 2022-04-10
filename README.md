@@ -262,3 +262,10 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 - Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız.
 
 ![img](images/Girilen_Sayıya_Kadar_Cift_Hesaplama.png)
+
+---
+
+## [Tek Sayıların Toplamını Hesaplayan Program](https://github.com/Berbet16/java101_practice_homeworks/blob/main/Tek_Say%C4%B1lar%C4%B1n_Toplam%C4%B1.java)
+
+- Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
+

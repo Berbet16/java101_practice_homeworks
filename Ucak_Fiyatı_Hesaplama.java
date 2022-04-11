@@ -8,7 +8,6 @@ public class Main {
         int km, age, direction;
         double totalPrice, kmPrice = 0.10;
 
-
         Scanner scan = new Scanner(System.in);
         System.out.print("Lüften kaç km yolculuk yapcağınızı giriniz :");
         km = scan.nextInt();
@@ -48,8 +47,6 @@ public class Main {
                 totalPrice = ((kmPrice * km) * 0.35);
                 System.out.println("Bilet tutarı :" + totalPrice + " TL");
             }
-
-
         } 
         else if (direction == 2) 
         {
@@ -68,14 +65,10 @@ public class Main {
                 totalPrice = (((kmPrice * km) * 0.35) * 2);
                 System.out.println("Bilet tutarı :" + totalPrice + " TL");
             }
-
-
         } 
         else 
         {
             System.out.println("Hatalı giriş!!");
         }
-
-
     }
 }

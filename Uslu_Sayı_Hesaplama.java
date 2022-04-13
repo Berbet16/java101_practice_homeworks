@@ -4,14 +4,12 @@ import java.util.Scanner;
 
 public class PatikaOdev 
 {
-
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
 
         int a,b,toplam=1;
         Scanner scan = new Scanner(System.in);
-
 
         System.out.print("Üssü giriniz : ");
         a = scan.nextInt();

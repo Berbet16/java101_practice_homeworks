@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class PatikaOdev 
 {
-
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
@@ -19,7 +18,6 @@ public class PatikaOdev
             System.out.println(a % 10);
             toplam=( a % 10 ) + toplam;
             a = a / 10;
-
         }
         System.out.print(toplam);
 	}
